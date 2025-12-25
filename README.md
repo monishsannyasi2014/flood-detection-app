@@ -1,8 +1,6 @@
 # 🌊 Flood Detection AI System
 
 
-## 🚀 Live Demo
-
 
 ## 📝 Features
 - **Image Analysis:** Upload satellite or ground-level photos to detect water presence.
